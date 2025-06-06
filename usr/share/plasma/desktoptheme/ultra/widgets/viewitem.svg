@@ -4,7 +4,7 @@
    height="161"
    id="svg7080"
    sodipodi:version="0.32"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    version="1.0"
    sodipodi:docname="viewitem.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
@@ -23,14 +23,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="94.13359"
-     inkscape:cy="77.604969"
+     inkscape:zoom="4"
+     inkscape:cx="86.874999"
+     inkscape:cy="107.625"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-width="2560"
+     inkscape:window-height="1368"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-global="true"
@@ -55,9 +55,14 @@
        empspacing="5"
        snapvisiblegridlinesonly="true"
        color="#0000ff"
-       opacity="0.01960784"
+       opacity="0.0196078"
        empcolor="#0000ff"
-       empopacity="0.03921569" />
+       empopacity="0.03921569"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs7082">
@@ -519,8 +524,8 @@
     <path
        inkscape:connector-curvature="0"
        id="hover-center"
-       d="m -252,525.46828 0,48 48,0 0,-48 -48,0 z"
-       style="opacity:0.3;fill:#1e92ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       d="m -252,525.46828 v 48 h 48 v -48 z"
+       style="display:inline;opacity:1;fill:#d35f5f;fill-opacity:0;fill-rule:nonzero;stroke:none"
        class="ColorScheme-ButtonFocus"
        inkscape:label="#selected-center-5" />
     <g
@@ -573,7 +578,7 @@
          inkscape:connector-curvature="0"
          id="path3131"
          d="m 190.14286,825.85684 0,1 131,0 0,-1 -131,0 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </g>
     <g
        transform="translate(-525.14285,-304.38884)"
