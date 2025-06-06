@@ -2,28 +2,28 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    width="17"
    height="57"
-   sodipodi:docname="frame.svgz"
+   sodipodi:docname="frame.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    inkscape:export-filename="/home/pinheiro/Documents/pics/estilo/plasma/wether.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   version="1.0">
+   version="1.0"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="879"
-     inkscape:window-width="1366"
+     inkscape:window-height="1368"
+     inkscape:window-width="2560"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      guidetolerance="10.0"
@@ -33,12 +33,12 @@
      bordercolor="#666666"
      pagecolor="#b9f3e8"
      id="base"
-     inkscape:zoom="2.8009069"
-     inkscape:cx="170.23927"
-     inkscape:cy="41.695058"
-     inkscape:window-x="443"
-     inkscape:window-y="78"
-     inkscape:current-layer="svg2"
+     inkscape:zoom="5.6018138"
+     inkscape:cx="57.927666"
+     inkscape:cy="-46.324282"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="plain-top"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -48,9 +48,11 @@
      inkscape:bbox-nodes="false"
      inkscape:snap-global="true"
      inkscape:object-nodes="true"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
-     borderlayer="true">
+     borderlayer="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid5592"
@@ -59,9 +61,14 @@
        empspacing="5"
        snapvisiblegridlinesonly="true"
        color="#0000ff"
-       opacity="0.01960784"
+       opacity="0.0196078"
        empcolor="#0000ff"
-       empopacity="0.03921569" />
+       empopacity="0.03921569"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -499,7 +506,7 @@
        height="1"
        width="80"
        id="rect3169"
-       style="opacity:0.1;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.1;fill:#ff0000;fill-opacity:1;stroke:none" />
   </g>
   <rect
      class="ColorScheme-Text"
@@ -637,7 +644,7 @@
        height="1"
        width="80"
        id="rect3249"
-       style="opacity:0.2;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.2;fill:#ff0000;fill-opacity:1;stroke:none" />
   </g>
   <rect
      class="ColorScheme-Text"
