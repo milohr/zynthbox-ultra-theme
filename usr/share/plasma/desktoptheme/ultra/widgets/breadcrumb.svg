@@ -40,13 +40,13 @@
      inkscape:window-height="1368"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="11.313709"
-     inkscape:cx="-18.959301"
-     inkscape:cy="53.165591"
+     inkscape:zoom="16"
+     inkscape:cx="2.09375"
+     inkscape:cy="79.40625"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="focus-left"
+     inkscape:current-layer="svg6"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1">
@@ -218,8 +218,8 @@
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect919-7"
-       width="9"
-       height="22"
+       width="9.0078125"
+       height="20.624998"
        x="47.995224"
        y="0.0032853959" />
     <path
@@ -234,14 +234,14 @@
     <rect
        style="display:inline;opacity:0.124093;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect927-9"
-       width="17"
-       height="22"
+       width="17.000002"
+       height="21.320169"
        x="30.994368"
        y="-28.005487" />
     <path
        id="path835"
        d="M 31,-27.312501 V -7.3749998 H 48 V -27.312501 Z"
-       style="color:#eff0f1;opacity:1;fill:#5063cb;fill-opacity:1;stroke:none;stroke-width:0.99843627"
+       style="color:#eff0f1;opacity:1;fill:#0f1119;fill-opacity:1;stroke:none;stroke-width:0.99843627"
        inkscape:connector-curvature="0"
        class="ColorScheme-Text" />
   </g>
@@ -263,8 +263,8 @@
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect935-7"
-       width="6"
-       height="22"
+       width="5.9502816"
+       height="21.308775"
        x="39.0625"
        y="2.4912747e-06" />
     <path
