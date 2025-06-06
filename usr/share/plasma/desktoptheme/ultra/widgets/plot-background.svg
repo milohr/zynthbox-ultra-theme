@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="800"
    height="600"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    version="1.0"
-   sodipodi:docbase="/home/greg"
-   sodipodi:docname="plot-background.svgz"
-   inkscape:output_extension="org.inkscape.output.svgz.inkscape">
+   sodipodi:docname="plot-background.svg"
+   inkscape:output_extension="org.inkscape.output.svgz.inkscape"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -38,17 +37,6 @@
          offset="1"
          id="stop3138" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3134"
-       id="linearGradient4115"
-       x1="0"
-       y1="300"
-       x2="800"
-       y2="300"
-       gradientUnits="userSpaceOnUse"
-       spreadMethod="pad"
-       gradientTransform="translate(-800,0)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -60,18 +48,22 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="531.30575"
-     inkscape:cy="420.75258"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="650.53824"
+     inkscape:cy="-167.68532"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="800px"
      height="600px"
-     inkscape:window-width="822"
+     inkscape:window-width="1025"
      inkscape:window-height="708"
-     inkscape:window-x="384"
-     inkscape:window-y="131"
-     showgrid="false" />
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showgrid="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -88,7 +80,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:0.2;fill:url(#linearGradient4115);fill-opacity:1"
+       style="opacity:0.2;fill:#ff2a2a;fill-opacity:1"
        id="rect2160"
        width="800"
        height="600"
